@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MyProfile2018\\Desktop\\FileValidationAttribute\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FCA6DDA-98B1-4747-BC93-4ADD1A230427}|FileValidationAttribute.csproj|d:\\myprofile2018\\desktop\\filevalidationattribute\\entities\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FCA6DDA-98B1-4747-BC93-4ADD1A230427}|FileValidationAttribute.csproj|solutionrelative:entities\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FCA6DDA-98B1-4747-BC93-4ADD1A230427}|FileValidationAttribute.csproj|d:\\myprofile2018\\desktop\\filevalidationattribute\\controllers\\uploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FCA6DDA-98B1-4747-BC93-4ADD1A230427}|FileValidationAttribute.csproj|solutionrelative:controllers\\uploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FCA6DDA-98B1-4747-BC93-4ADD1A230427}|FileValidationAttribute.csproj|d:\\myprofile2018\\desktop\\filevalidationattribute\\utilities\\fileextensionsattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FCA6DDA-98B1-4747-BC93-4ADD1A230427}|FileValidationAttribute.csproj|solutionrelative:utilities\\fileextensionsattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UploadController.cs",
+              "DocumentMoniker": "D:\\MyProfile2018\\Desktop\\FileValidationAttribute\\Controllers\\UploadController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UploadController.cs",
+              "ToolTip": "D:\\MyProfile2018\\Desktop\\FileValidationAttribute\\Controllers\\UploadController.cs",
+              "RelativeToolTip": "Controllers\\UploadController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA5wAoAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T08:30:52.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileExtensionsAttribute.cs",
+              "DocumentMoniker": "D:\\MyProfile2018\\Desktop\\FileValidationAttribute\\Utilities\\FileExtensionsAttribute.cs",
+              "RelativeDocumentMoniker": "Utilities\\FileExtensionsAttribute.cs",
+              "ToolTip": "D:\\MyProfile2018\\Desktop\\FileValidationAttribute\\Utilities\\FileExtensionsAttribute.cs",
+              "RelativeToolTip": "Utilities\\FileExtensionsAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T08:28:54.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Image.cs",
+              "DocumentMoniker": "D:\\MyProfile2018\\Desktop\\FileValidationAttribute\\Entities\\Image.cs",
+              "RelativeDocumentMoniker": "Entities\\Image.cs",
+              "ToolTip": "D:\\MyProfile2018\\Desktop\\FileValidationAttribute\\Entities\\Image.cs",
+              "RelativeToolTip": "Entities\\Image.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T08:27:35.994Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
